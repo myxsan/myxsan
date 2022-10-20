@@ -15,7 +15,7 @@ Hi, I'm Musa Yüksel, a passionate self-taught Game developer.
 
 Languages and Tools:
 
-<img height="38" src="img/Unity.png">
+<img height="38" src="img/unity.png">
 <img height="30" src="img/csharp.png">
 <img height="30" src="img/dotnet.png">
 
