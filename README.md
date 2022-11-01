@@ -3,7 +3,7 @@
 
 ## **Hi there, I'm Musa! :wave:** 
 
-<a href="https://www.linkedin.com/in/musa-y%C3%BCksel-a06bba169">
+<a href="https://www.linkedin.com/in/myxsan">
 <img height="50" src="img/linkedin.png">
 </a>
 
