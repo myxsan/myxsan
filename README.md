@@ -6,14 +6,19 @@
 <a href="https://www.linkedin.com/in/myxsan">
 <img height="50" src="img/linkedin.png">
 </a>
-
- <a href="mailto:yksl3461@gmail.com" target="_blank" rel="nofollow"><img height="50" alt="gmail" src="img/gmail.png" /></a>
+<a href="mailto:yksl3461@gmail.com" target="_blank" rel="nofollow"><img height="50" alt="gmail" src="img/gmail.png" /></a>
 </a>
 
 
-Hi, I'm Musa Yüksel, a passionate self-taught Game developer.
+Hi, I'm Musa Yüksel, a passionate self-taught software developer.
 
 Languages and Tools:
+
+<img height="40" src="img/html5.png">
+<img height="40" src="img/css3.png">
+<img height="35" src="img/javascript.png">
+<img height="35" src="img/react.png">
+<img height="35" src="img/nodejs.png">
 
 <img height="38" src="img/unity.png">
 <img height="30" src="img/csharp.png">
