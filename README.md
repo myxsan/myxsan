@@ -16,9 +16,9 @@ Languages and Tools:
 
 <img height="40" src="img/html5.png">
 <img height="40" src="img/css3.png">
-<img height="35" src="img/javascript.png">
-<img height="35" src="img/react.png">
-<img height="35" src="img/nodejs.png">
+<img height="32" src="img/javascript.png">
+<img height="32" src="img/typescript.png">
+<img height="32" src="img/react.png">
 <br>
 <img height="38" src="img/unity.png">
 <img height="30" src="img/csharp.png">
