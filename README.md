@@ -8,9 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Management System for Journals**
- 
- 🌱 I’m currently learning **Machine Learning**
 
 💬 Ask me about **Next.js, React, JavaScript, HTML, CSS... or anything [here](https://github.com/myxsan/myxsan/issues)**
 
